@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/gohugoio/gohugoioTheme/master/static/images/hugo-logo-wide.svg?sanitize=true" alt="Hugo" width="565">
 
 A Fast and Flexible Static Site Generator built with love by [bep](https://github.com/bep), [spf13](http://spf13.com/) and [friends](https://github.com/gohugoio/hugo/graphs/contributors) in [Go][].
@@ -185,3 +186,6 @@ Hugo stands on the shoulder of many great open source libraries, in lexical orde
  
  
  
+=======
+# hugo3
+>>>>>>> 33c759a3052df7a651f95cd816cf7765389bb592
